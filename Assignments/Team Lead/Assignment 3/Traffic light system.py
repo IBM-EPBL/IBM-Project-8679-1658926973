@@ -1,5 +1,3 @@
-s (24 sloc)  579 Bytes
-
 loop = 1
 print("TRAFFIC LIGHT SYSTEM")
 print("Input Data Catagorization:")
@@ -24,7 +22,3 @@ while True:
  print("you choose to end the program")
  else:
  print("enter only the correct signal")
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
